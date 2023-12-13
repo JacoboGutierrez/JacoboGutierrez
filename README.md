@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Santiago Gutierrez
+# Santiago Gutierrez
 ## Java Back-End Developer
 ![Java Back-End Developer](https://media.licdn.com/dms/image/D4D16AQFdCOj5uA-i1A/profile-displaybackgroundimage-shrink_350_1400/0/1690300182749?e=1707955200&v=beta&t=8qSRJwCoVnzwxGqnmwo1bLgIE4rgQc6OEGr-2Fbnv6M)
 
