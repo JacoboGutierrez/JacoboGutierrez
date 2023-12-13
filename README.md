@@ -12,7 +12,7 @@ Skills:
 
 ## Examples of work:
 <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/moviesw.gif" width="256" />
-<img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/amap.gif)" width="256" />
+<img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/amaz.gif" width="256" />
 <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/menuw.gif" width="256" />
 - 📫 How to reach me: santisurf936@gmail.com 
 
