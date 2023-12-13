@@ -13,11 +13,11 @@ Skills:
 ## Examples of work:
 <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/moviesw.gif" width="256" /> <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/amaz.gif" width="256" /> <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/menuw.gif" width="256" />
 
-1) https://github.com/JacoboGutierrez/Movie-Info-Website-with-React
+• https://github.com/JacoboGutierrez/Movie-Info-Website-with-React
 
-2) https://github.com/JacoboGutierrez/Amazon-Vacational-System
+• https://github.com/JacoboGutierrez/Amazon-Vacational-System
 
-3) https://github.com/JacoboGutierrez/Menu-JS
+• https://github.com/JacoboGutierrez/Menu-JS
 
 - 📫 How to reach me: santisurf936@gmail.com 
 
