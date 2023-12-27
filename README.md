@@ -6,9 +6,10 @@ Hello, i'm Santiago from Argentina, as a developer, I specialize in Java 8 & 11 
 
 Skills: 
 ☕ JAVA / 
-⚙️ REACT / 
-💻 JS / HTML / CSS
-☁️ DOCKER
+⚛️ REACT / 
+🚀 JS / HTML / CSS
+🐬 MYSQL
+🐳 DOCKER
 
 ## Examples of work:
 <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/moviesw.gif" width="256" /> <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/amaz.gif" width="256" /> <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/menuw.gif" width="256" />
