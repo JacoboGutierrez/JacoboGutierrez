@@ -5,13 +5,13 @@
 Hello, i'm Santiago from Argentina, as a developer, I specialize in Java 8 & 11 back-end development, I also work collaboratively with emerging technologies such as Docker, databases, and microservices.
 
 Skills: 
-☕ JAVA 
-⚛️ REACT 
-🐬 MYSQL
-🐳 DOCKER
-🚀 JS
-🌐 HTML
-🎨 CSS
+☕ JAVA |
+⚛️ REACT |
+🐬 MYSQL |
+🐳 DOCKER |
+🚀 JS |
+🌐 HTML |
+🎨 CSS |
 
 ## Examples of work:
 <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/moviesw.gif" width="256" /> <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/amaz.gif" width="256" /> <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/menuw.gif" width="256" />
