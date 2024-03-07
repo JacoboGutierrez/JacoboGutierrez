@@ -22,7 +22,7 @@ Skills:
 
 • https://github.com/JacoboGutierrez/Menu-JS
 
-📫 Contact me! sagutierrez@hotmail.com
+📫 Contact: sagutierrez@hotmail.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/santiago-gutierrez-a333aa999lah/) 
 
