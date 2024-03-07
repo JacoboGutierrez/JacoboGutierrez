@@ -13,7 +13,7 @@ Skills:
 🌐 HTML |
 🎨 CSS |
 
-## Examples of work:
+## Work examples:
 <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/moviesw.gif" width="256" /> <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/amaz.gif" width="256" /> <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/menuw.gif" width="256" />
 
 • https://github.com/JacoboGutierrez/Movie-Info-Website-with-React
