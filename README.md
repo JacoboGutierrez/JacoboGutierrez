@@ -35,7 +35,7 @@ Skills:
   </a>
 </section>
 
-📫 Contact: sagutierrez@hotmail.com
+📞 Contact: sagutierrez@hotmail.com
 
 
 
