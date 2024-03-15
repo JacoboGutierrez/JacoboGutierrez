@@ -27,8 +27,24 @@ Skills:
   <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/bk.png" width="256" />
 </a>
 
+<a href="https://github.com/JacoboGutierrez/Burger-king-menu-2.0">
+  <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/bk.png" width="256" />
+</a>
+
+<section>
+  <div>
+    <ul>
+      <li>
+        <a href="https://www.linkedin.com/in/santiago-a-gutierrez/?locale=en_US" target="_blank">
+          <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/linkedin.png" width="64" />
+        </a>
+      </li>
+    </ul>
+  </div>
+</section>
+
 📫 Contact: sagutierrez@hotmail.com
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/santiago-gutierrez-a333aa999lah/) 
+
 
 
