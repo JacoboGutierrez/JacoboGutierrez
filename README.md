@@ -16,16 +16,14 @@ Skills:
 ## Work examples:
 
 <div>
+<a href="https://github.com/JacoboGutierrez/Burger-king-menu-2.0">
+  <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/bk.png" width="256" />
+</a>  
   <a href="https://github.com/JacoboGutierrez/Movie-Info-Website-with-React">
   <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/movies.png" width="256" />
 </a>
-
 <a href="https://github.com/JacoboGutierrez/Amazon-Vacational-System">
   <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/amaz.png" width="256" /> 
-</a>
-
-<a href="https://github.com/JacoboGutierrez/Burger-king-menu-2.0">
-  <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/bk.png" width="256" />
 </a>
 </div>
 
