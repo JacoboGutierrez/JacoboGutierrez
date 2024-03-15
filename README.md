@@ -2,7 +2,7 @@
 ## Java Back-End Developer
 ![Java Back-End Developer](https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/banner_integrado.png?raw=true)
 
-Hello, i'm Santiago from Argentina, as a developer, I specialize in Java 8 & 11 back-end development, I also work collaboratively with emerging technologies such as Docker, databases, and microservices.
+Hello, i'm Santiago from Argentina, as a developer, I specialize in Java 8 & 11 back-end development, I also work collaboratively with technologies such as Docker, databases, and microservices.
 
 Skills: 
 ☕ JAVA |
