@@ -16,7 +16,7 @@ Skills:
 ## Work examples:
 
 <a href="https://github.com/JacoboGutierrez/Movie-Info-Website-with-React">
-  <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/moviesw.gif" width="256" />
+  <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/movies.png" width="256" />
 </a>
 
 <a href="https://github.com/JacoboGutierrez/Amazon-Vacational-System">
