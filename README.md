@@ -28,21 +28,9 @@ Skills:
 </a>
 
 <section>
-        <a href="https://www.linkedin.com/in/santiago-a-gutierrez/?locale=en_US" target="_blank">
-          <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/linkedin.png" width="64" />
-        </a>
-</section>
-
-<section>
-  <div>
-    <ul>
-      <li>
-        <a href="https://www.linkedin.com/in/santiago-a-gutierrez/?locale=en_US" target="_blank">
-          <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/linkedin.png" width="64" />
-        </a>
-      </li>
-    </ul>
-  </div>
+  <a href="https://www.linkedin.com/in/santiago-a-gutierrez/?locale=en_US" target="_blank">
+    <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/linkedin.png" width="64" />
+  </a>
 </section>
 
 📫 Contact: sagutierrez@hotmail.com
