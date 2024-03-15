@@ -15,7 +15,8 @@ Skills:
 
 ## Work examples:
 
-<a href="https://github.com/JacoboGutierrez/Movie-Info-Website-with-React">
+<div>
+  <a href="https://github.com/JacoboGutierrez/Movie-Info-Website-with-React">
   <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/movies.png" width="256" />
 </a>
 
@@ -26,6 +27,7 @@ Skills:
 <a href="https://github.com/JacoboGutierrez/Burger-king-menu-2.0">
   <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/bk.png" width="256" />
 </a>
+</div>
 
 <section>
   <a href="https://www.linkedin.com/in/santiago-a-gutierrez/?locale=en_US" target="_blank">
