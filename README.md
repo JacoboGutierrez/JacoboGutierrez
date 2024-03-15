@@ -26,11 +26,12 @@ Skills:
   <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/amaz.png" width="256" /> 
 </a>
 </div>
-✉️ Contact: sagutierrez.dev@hotmail.com
+
 <section>
   <a href="https://www.linkedin.com/in/santiago-a-gutierrez/?locale=en_US">
     <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/linkedin.png" width="64" />
   </a>
+  ✉️ Contact: sagutierrez.dev@hotmail.com
 </section>
 
 
