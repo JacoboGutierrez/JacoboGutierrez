@@ -27,8 +27,8 @@ Skills:
   <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/bk.png" width="256" />
 </a>
 
-<a href="https://github.com/JacoboGutierrez/Burger-king-menu-2.0">
-  <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/bk.png" width="256" />
+<a href="https://www.linkedin.com/in/santiago-a-gutierrez/?locale=en_US" target="_blank">
+  <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/linkedin.png" width="64" />
 </a>
 
 <section>
