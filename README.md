@@ -20,7 +20,7 @@ Skills:
 </a>
 
 <a href="https://github.com/JacoboGutierrez/Amazon-Vacational-System">
-  <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/amaz.gif" width="256" /> 
+  <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/amaz.png" width="256" /> 
 </a>
 
 <a href="https://github.com/JacoboGutierrez/Burger-king-menu-2.0">
