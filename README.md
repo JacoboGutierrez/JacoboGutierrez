@@ -16,16 +16,16 @@ Skills:
 ## Work examples:
 
 <a href="https://github.com/JacoboGutierrez/Movie-Info-Website-with-React">
-<img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/moviesw.gif" width="256" />
+  <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/moviesw.gif" width="256" />
 </a>
 
-<img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/moviesw.gif" width="256" /> <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/amaz.gif" width="256" /> <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/bk.png" width="256" />
+<a href="https://github.com/JacoboGutierrez/Amazon-Vacational-System">
+  <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/amaz.gif" width="256" /> 
+</a>
 
-• https://github.com/JacoboGutierrez/Movie-Info-Website-with-React
-
-• https://github.com/JacoboGutierrez/Amazon-Vacational-System
-
-• https://github.com/JacoboGutierrez/Menu-JS
+<a href="https://github.com/JacoboGutierrez/Burger-king-menu-2.0">
+  <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/bk.png" width="256" />
+</a>
 
 📫 Contact: sagutierrez@hotmail.com
 
