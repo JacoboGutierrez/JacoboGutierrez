@@ -36,6 +36,8 @@ Skills:
   <a href="mailto:sagutierrez.dev@hotmail.com">
     <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/gmail.png" width="64" />
   </a>
+  
+  </body>
 
 
 
