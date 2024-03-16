@@ -30,7 +30,8 @@ Skills:
 
 ## 🌐 Socials
 
-  <li>
+  <ul>
+    <li>
 <section>
     <a href="https://www.linkedin.com/in/santiago-a-gutierrez/?locale=en_US">
     <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/linkedin.png" width="64" />
@@ -42,6 +43,8 @@ Skills:
   </a>
 </section>
   </li>
+  </ul>
+  
   
 
 
