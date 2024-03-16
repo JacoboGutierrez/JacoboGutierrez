@@ -28,10 +28,11 @@ Skills:
 </a>
 </div>
 
-<div class="markdown-heading"</div>
+## 🌐 Socials
 
+  <li>
 <section>
-  <a href="https://www.linkedin.com/in/santiago-a-gutierrez/?locale=en_US">
+    <a href="https://www.linkedin.com/in/santiago-a-gutierrez/?locale=en_US">
     <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/linkedin.png" width="64" />
   </a>
 </section>
@@ -40,6 +41,8 @@ Skills:
     <img src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/gmail.png" width="64" />
   </a>
 </section>
+  </li>
+  
 
 
 
