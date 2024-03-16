@@ -43,10 +43,6 @@ Skills:
 </section>
 </div>
 
-.social{
-display: inline-block;
-}
-
   
   
 
