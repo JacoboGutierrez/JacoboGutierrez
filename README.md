@@ -15,7 +15,7 @@ I currently work at **Viridian Weapon Technologies**, where I maintain and impro
 
 I mainly work with **Magento 2, PHP, MySQL, JavaScript, Alpine.js, Tailwind CSS, HTML, CSS, and Docker**.
 
-I enjoy solving practical problems, learning new tools, and making websites work a little better every day.
+I enjoy solving practical problems, learning new tools, and making things work a little better every day.
 
 ## Skills
 
