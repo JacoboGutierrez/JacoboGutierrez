@@ -56,6 +56,5 @@ I enjoy solving practical problems, learning new tools, and making websites work
 </p>
 
 ## 📞 Contact
-<p>LinkedIn: </p><a href="https://www.linkedin.com/in/santiago-a-gutierrez/?locale=en_US">linkedin.com/in/santiago-a-gutierrez/?locale=en_US</a>
-<br>
-<p>Outlook: </p><a href="mailto:sagutierrez.dev@hotmail.com">sagutierrez.dev@hotmail.com</a>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/santiago-a-gutierrez/?locale=en_US">linkedin.com/in/santiago-a-gutierrez/?locale=en_US</a></p>
+<p>Outlook: <a href="mailto:sagutierrez.dev@hotmail.com">sagutierrez.dev@hotmail.com</a></p>
