@@ -56,20 +56,7 @@ I enjoy solving practical problems, learning new tools, and making websites work
 </p>
 
 ## 📞 Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/santiago-a-gutierrez/?locale=en_US">
-    <img
-      src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/linkedin.png"
-      alt="LinkedIn"
-      width="64"
-    />
-  </a>
-  <a href="mailto:sagutierrez.dev@hotmail.com">
-    <img
-      src="https://github.com/JacoboGutierrez/JacoboGutierrez/blob/main/gmail.png"
-      alt="Email"
-      width="64"
-    />
-  </a>
+<p>
+  <a href="https://www.linkedin.com/in/santiago-a-gutierrez/?locale=en_US"></a>
+  <a href="mailto:sagutierrez.dev@hotmail.com"> </a>
 </p>
