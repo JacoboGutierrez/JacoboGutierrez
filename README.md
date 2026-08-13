@@ -29,7 +29,7 @@ I enjoy solving practical problems, learning new tools, and making things work a
 🎨 CSS |
 🐳 Docker
 
-## Work Examples
+## Personal Projects
 
 <p align="center">
   <a href="https://github.com/JacoboGutierrez/Burger-king-menu-2.0">
